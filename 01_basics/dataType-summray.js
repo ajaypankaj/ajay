@@ -24,3 +24,13 @@ const myFunction = function(){
     
 }
 
+// https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//  stack memory (primitive), Heap (Non-Primitive)
+// stack => copy milta hai
+// heap => refrence milta hai orginal me change 
